@@ -45,6 +45,7 @@ function getTotalSupply() {
 
 // call your functions below this line
 mintNFT("Ananya Goel",257089, "Sunset Serenity", "Digital Art work","20/4/22");
+mintNFT("Rishab",2728089, "Pokemon card", "Game","2/8/22");
 mintNFT("Aastha ",157289,"Dragon game", "online game","2/1/20");
 listNFTs();
 getTotalSupply();
